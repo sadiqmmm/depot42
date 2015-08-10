@@ -23,3 +23,6 @@ body {
 	padding: 10px;
 	min-height: 800px;
 }
+nav li {
+	list-style: none;
+}
